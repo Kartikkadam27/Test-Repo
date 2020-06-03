@@ -9,4 +9,5 @@ chicken
 mutton
 kebab
 
-this is soo delicious
+this is soo delicious.
+fav is nonveg
